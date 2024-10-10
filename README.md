@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bartosz Pawłowski</h1>
-<h3 align="center">3rd year student and computer science enthusiast</h3>
+<h3 align="center">4th-year student and computer science enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

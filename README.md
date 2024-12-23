@@ -82,9 +82,7 @@
   </a> 
 </p>
 
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartipablo&show_icons=true&locale=en&theme=highcontrast" alt="bartipablo" />
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartipablo&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="bartipablo" /></p>
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bartipablo&show_icons=true&locale=en&theme=highcontrast" alt="bartipablo" style="height: 200px; object-fit: contain; flex: 1 1 300px; margin: 0;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartipablo&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="bartipablo" style="height: 200px; object-fit: contain; flex: 1 1 300px; margin: 0;" />
+</div>
